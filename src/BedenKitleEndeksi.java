@@ -14,6 +14,7 @@ public BedenKitleEndeksi() {
         double bke = (kilo / (boy * boy));
 
         System.out.println("vücut kitle endeksiniz : " + bke);
+        int j=5;
 
     }
 
