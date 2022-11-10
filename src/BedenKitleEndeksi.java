@@ -12,6 +12,7 @@ public BedenKitleEndeksi() {
         double boy = scanner.nextDouble();
 
         double bke = (kilo / (boy * boy));
+        int a;
 
         System.out.println("vücut kitle endeksiniz : " + bke);
 
