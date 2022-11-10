@@ -1,5 +1,12 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world1!");
+        BedenKitleEndeksi bke = new BedenKitleEndeksi();
+        while (true) {
+
+            bke.indeksHesapla();
+            break;
+
+        }
+
     }
 }
