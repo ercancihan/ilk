@@ -15,6 +15,7 @@ public BedenKitleEndeksi() {
         int a;
 
         System.out.println("vücut kitle endeksiniz : " + bke);
+        int j=5;
 
     }
 
